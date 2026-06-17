@@ -127,12 +127,3 @@ Bu raporda tüm parasal karşılaştırmalar **yüzde ve oran** bazında yapılm
 5. PDF raporunu inceleyin.
 
 ---
-
-## 👤 Hazırlayan
-
-**Financial Analyst + BI Consultant**  
-Veri temelli, şeffaf ve uygulanabilir iş içgörüsü odaklı analiz
-
----
-
-*Bu README, `Olist_Strategic_Financial_Analysis_Report.pdf` ile birebir uyumlu olarak hazırlanmıştır.*
